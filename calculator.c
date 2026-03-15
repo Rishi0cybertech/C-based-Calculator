@@ -15,7 +15,7 @@ int main ()
   printf("For Substraction press 4\n");
 
   scanf("%d", &choice);
-  printf("You choosed %d , here is your answer\n");
+  printf("You choosed %d , here is your answer\n", choice);
 
   switch(choice)
     {
