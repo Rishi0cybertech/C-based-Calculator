@@ -40,7 +40,7 @@ int main ()
       break;
 
       default:
-      printf("error");
+      printf("invalid input");
     };
   return 0;
 }
